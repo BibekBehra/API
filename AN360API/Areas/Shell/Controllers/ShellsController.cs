@@ -46,7 +46,7 @@ namespace AN360API.Controllers
         }
         public HttpResponseMessage Getv2(string AlarmReportingNumber)
         {
-            return this.Request.CreateResponse(HttpStatusCode.BadRequest, "This is version number 2. Now work on v2");
+            return this.Request.CreateResponse(HttpStatusCode.BadRequest, "New versioning strategy needs to be followed");
         }
             /// <summary>
             ///Gets shell account based on the Alarm Reporting Number.
