@@ -1,0 +1,119 @@
+{
+  "Customers": [
+    {
+      "CustomerDetails": {
+        "FirstName": "12",
+        "LastName": "TestLastName",
+        "Email": "Biebk@honeywell.com",
+        "InstallationAddress": {
+          "AddressLine1": "rtrt",
+          "AddressLine2": "Test Address2",
+          "State": "New York",
+          "Country": "USA",
+          "City": "New York",
+          "Zip": "11234",
+          "Location": "sample Location"
+        }
+      },
+      "AlarmNetAccountDetails": {
+        "CityCSSub": {
+          "CityId": "89",
+          "CsId": "05",
+          "SubscriberId": "2451"
+        },
+        "ServiceDetails": [
+          {
+            "Name": "TwoWayVoice",
+            "Value": "1",
+            "Id": null,
+            "Type": null,
+            "ActualValue": 0
+          },
+          {
+            "Name": "CRL",
+            "Value": "0",
+            "Id": null,
+            "Type": null,
+            "ActualValue": 0
+          },
+          {
+            "Name": "APL",
+            "Value": "1",
+            "Id": null,
+            "Type": null,
+            "ActualValue": 0
+          },
+          {
+            "Name": "VAV",
+            "Value": "1",
+            "Id": null,
+            "Type": null,
+            "ActualValue": 0
+          },
+          {
+            "Name": "SuperVision",
+            "Value": "Daily",
+            "Id": null,
+            "Type": null,
+            "ActualValue": 0
+          }
+        ]
+      },
+      "TotalConnectAccountDetails": {
+        "MasterUserName": "TCMaster",
+        "Notification": "All",
+        "ServiceDetails": [
+          {
+            "Name": "Information",
+            "Value": "1",
+            "Id": null,
+            "Type": null,
+            "ActualValue": 0
+          },
+          {
+            "Name": "Advertising",
+            "Value": "0",
+            "Id": null,
+            "Type": null,
+            "ActualValue": 0
+          },
+          {
+            "Name": "Automation",
+            "Value": "1",
+            "Id": null,
+            "Type": null,
+            "ActualValue": 0
+          },
+          {
+            "Name": "VideoService",
+            "Value": "1",
+            "Id": null,
+            "Type": null,
+            "ActualValue": 0
+          },
+          {
+            "Name": "VideoDoorBell",
+            "Value": "0",
+            "Id": null,
+            "Type": null,
+            "ActualValue": 0
+          },
+          {
+            "Name": "ChamberLine",
+            "Value": "0",
+            "Id": null,
+            "Type": null,
+            "ActualValue": 0
+          },
+          {
+            "Name": "TC2Plan",
+            "Value": "Basic",
+            "Id": null,
+            "Type": null,
+            "ActualValue": 0
+          }
+        ]
+      }
+    }
+  ]
+}

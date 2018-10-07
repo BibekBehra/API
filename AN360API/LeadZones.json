@@ -1,0 +1,15 @@
+{
+  "LeadZones": [
+    {
+       "CityCSSub": {
+          "CityId": "89",
+          "CsId": "03",
+          "SubscriberId": "1239"
+        },
+      "DeviceType": "Police",
+      "ResponseType": "CarbonMonoxide",
+      "ZoneDescriptor1": "Front",
+      "ZoneDescriptor2": "Back"
+    }
+  ]
+}

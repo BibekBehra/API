@@ -1,0 +1,6 @@
+namespace AN360API.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}

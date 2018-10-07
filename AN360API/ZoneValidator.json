@@ -1,0 +1,166 @@
+{
+   "DeviceTypeWithResponseTypeMapper": [
+    {
+      "DeviceType": "Police",
+      "ResponseTypes": [
+        "NotUsed",
+        "TwentyFourHourSilent",
+        "TwentyFourHourAudible",
+        "TwentyFourHourAuxiliary"
+      ]
+    },
+    {
+      "DeviceType": "CarbonMonoxideDetector",
+      "ResponseTypes": [
+        "CarbonMonoxide"
+      ]
+    },
+    {
+      "DeviceType": "Door",
+      "ResponseTypes": [
+        "EntryExit1",
+        "EntryExit2",
+        "Perimeter",
+        "ResidentMonitor",
+        "ResidentResponse",
+        "GeneralMonitor",
+        "GeneralResponse"
+      ]
+    },
+    {
+      "DeviceType": "Environmental",
+      "ResponseTypes": [
+        "TwentyFourHourAuxiliary",
+        "Monitor"
+      ]
+    },
+    {
+      "DeviceType": "Fire",
+      "ResponseTypes": [
+        "NotUsed",
+        "FireNoVerification"
+      ]
+    },
+    {
+      "DeviceType": "Flood",
+      "ResponseTypes": [
+        "TwentyFourHourAuxiliary",
+        "Monitor"
+      ]
+    },
+    {
+      "DeviceType": "GlassBreak",
+      "ResponseTypes": [
+        "Perimeter",
+        "ResidentMonitor",
+        "ResidentResponse",
+        "GeneralMonitor",
+        "GeneralResponse"
+      ]
+    },
+    {
+      "DeviceType": "HeatSensor",
+      "ResponseTypes": [
+        "FireNoVerification"
+      ]
+    },
+    {
+      "DeviceType": "Medical",
+      "ResponseTypes": [
+        "NotUsed",
+        "TwentyFourHourAudible",
+        "TwentyFourHourAuxiliary"
+      ]
+    },
+    {
+      "DeviceType": "MotionSensor",
+      "ResponseTypes": [
+        "Perimeter",
+        "InteriorFollower",
+        "DayNight",
+        "InteriorWithDelay",
+        "ResidentMonitor",
+        "ResidentResponse",
+        "GeneralMonitor",
+        "GeneralResponse"
+      ]
+    },
+    {
+      "DeviceType": "NotUsed",
+      "ResponseTypes": [
+        "NotUsed"
+      ]
+    },
+    {
+      "DeviceType": "SmokeDetector",
+      "ResponseTypes": [
+        "FireNoVerification",
+        "FireWithVerification"
+      ]
+    },
+    {
+      "DeviceType": "Temparture",
+      "ResponseTypes": [
+        "Monitor",
+        "TwentyFourHourAuxiliary"
+      ]
+    },
+    {
+      "DeviceType": "Window",
+      "ResponseTypes": [
+        "EntryExit1",
+        "EntryExit2",
+        "Perimeter",
+        "ResidentMonitor",
+        "ResidentResponse",
+        "GeneralMonitor",
+        "GeneralResponse",
+        "DayNight"
+      ]
+    },
+    {
+      "DeviceType": "GarageDoor",
+      "ResponseTypes": [
+        "Garage",
+        "GarageMonitor"
+      ]
+    },
+    {
+      "DeviceType": "WirelessSiren",
+      "ResponseTypes": [
+        "DayNight"
+      ]
+    },
+    {
+      "DeviceType": "Other",
+      "ResponseTypes": [
+        "NotUsed",
+        "EntryExit1",
+        "EntryExit2",
+        "Perimeter",
+        "InteriorFollower",
+        "DayNight",
+        "TwentyFourHourSilent",
+        "TwentyFourHourAudible",
+        "TwentyFourHourAuxiliary",
+        "FireNoVerification",
+        "InteriorWithDelay",
+        "Monitor",
+        "CarbonMonoxide",
+        "FireWithVerification",
+        "Trouble",
+        "ArmStay",
+        "ArmAway",
+        "Disarm",
+        "NoResponse",
+        "SilentBurglary",
+        "Garage",
+        "GarageMonitor",
+        "ResidentMonitor",
+        "ResidentResponse",
+        "GeneralMonitor",
+        "GeneralResponse"
+      ]
+    }
+  ]
+}

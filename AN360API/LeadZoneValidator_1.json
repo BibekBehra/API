@@ -1,0 +1,19 @@
+{
+   "DeviceTypeWithResponseTypeMapper": [
+    {
+      "DeviceType": "Police",
+      "ResponseTypes": {
+        "NotUsed":"12",
+        "TwentyFourHourSilent":"13",
+        "TwentyFourHourAudible":"14",
+        "TwentyFourHourAuxiliary":"15"
+      }
+    },
+     {
+      "DeviceType": "CarbonMonoxideDetector",
+      "ResponseTypes": {
+        "CarbonMonoxide":"16"
+      }
+    }
+    ]
+}
